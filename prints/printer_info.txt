@@ -1,0 +1,19 @@
+The prints in this folder were printed on a Creality Ender Pro 5 with Ultimaker 4.7 as the slicer.
+
+PLA Settings
+Extruder Temp: 205C
+Bed Temp: 55C
+Speed: 80mm/s
+Z-Hop: Enabled
+Supports: Enabled, 45deg
+Bed Adhesion: Raft
+
+
+PVA Settings 
+---Applied masking tape to build plate.---
+Extruder Temp: 205C
+Bed Temp: 65C
+Speed: 70mm/s
+Z-Hop: Enabled
+Supports: Disabled
+Bed Adhesion: Raft
