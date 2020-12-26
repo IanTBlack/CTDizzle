@@ -1,6 +1,6 @@
 # CTDizzle
 
-![ctdizzle]()
+![ctdizzle](https://github.com/IanTBlack/CTDizzle/blob/main/documentation/ctdizzle.jpg)
 
 
 Welcome! This is the repository for the CTDizzle, an open source CTD that is built on an Arduino platform. 
@@ -12,26 +12,41 @@ The CTDizzle framework is considered charityware. You can use and copy it as muc
 a donation to the American Civil Liberties Union (www.aclu.org) or another charity of your choice if you find it useful.
 
 For issues related to the CTDizzle, please use GitHub's issue tracker.
+
 If you would like to contribute to this project, please submit a pull request or consider making your work public so that others may benefit.
+
 For questions and more information, contact Ian Black (iantimothyblack@gmail.com). Please put "CTD" in the subject line so it doesn't go to spam.
 
 Here are some other open source CTDs used under different applications:
+
 Arduino-based Sonde: https://github.com/glockridge/DrifterApplication
+
 OpenCTD: https://github.com/OceanographyforEveryone/OpenCTD
+
 PiCTD: https://github.com/haanhouse/pictd
 
 
 ## CTDizzle Specifications
 Maximum Sampling Rate: 1Hz
+
 Tested Depth: 80m
+
 Maximum Depth: 100m (Acrylic Tube), 200m (Aluminum Tube)
+
 Conductivity Accuracy: +/- 2% (After Calibration)
+
 Conductivity Response Time: 1s
+
 Temperature Accuracy: +/- 0.1 degC
+
 Temperature Response Time: 3s
+
 Pressure Accuracy: +/- 100 mbar
+
 Pressure Response Time: 20ms
+
 Clock Accuracy: 29 PPM (+/- 3s per day)
+
 Battery Life: Dependent (~60 hours @ 1Hz on a 3.7v 2200 mAh)
 
 
